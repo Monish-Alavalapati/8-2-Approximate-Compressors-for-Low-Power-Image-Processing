@@ -199,10 +199,6 @@ The following plots illustrate the *expected* trade-offs based on hypothetical d
 
 The approximate compressor (Approx_v1) shows an estimated **25% reduction in area** and **27% reduction in power** compared to the exact design. The timing analysis indicates a **slight improvement in Worst Negative Slack**, suggesting it might support a slightly higher frequency or have more timing margin. This comes at the cost of accuracy, with an **Error Rate of 12.5%** and a **Mean Error Distance of 0.18**, indicating that while errors occur somewhat frequently, their average magnitude is small. These results align with the expected trade-offs of the chosen AxFA_v1 approximation strategy.
 
-## License
-
-This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
-
 ## Author / Contact
 
 Monish Alavalapati
