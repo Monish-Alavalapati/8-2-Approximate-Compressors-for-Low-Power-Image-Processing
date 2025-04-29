@@ -48,14 +48,11 @@ approximate_compressor_8_2/
 │   │   └── synthesize_approx_v1.tcl
 │   └── reports/            # -> Generated synthesis reports go here (exact/, approx_v1/)
 ├── scripts/                # Python analysis and plotting
-│   ├── generate_sample_plots.py # Generates sample plots (no synthesis needed)
 │   ├── parse_synth_reports.py   # Parses synthesis reports
 │   ├── plot_results.py          # Plots actual results after parsing
 │   ├── results/                 # -> Generated JSON results go here
 │   └── plots/                   # -> Generated plots from actual results go here
-│   └── sample_plots_professional/ # -> Generated professional sample plots go here
 ├── .gitignore              # Git ignore file
-├── LICENSE                 # Project License (MIT)
 └── README.md               # This file
 ```
     
